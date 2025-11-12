@@ -1,0 +1,98 @@
+body{
+    background-color:#BF092F ;
+    font-family: arial;
+    font-size: 1.25rem;
+}
+
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+
+.profileAlignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.centerTable{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linkCells{
+    padding: 10px;
+    color: #3B9797
+}
+
+.paragraphOne{
+    color: #132440;
+    font-size: 25px;
+}
+.headerOne{
+    color: #16476A
+}
+
+.headerOneAlign{
+text-align: center;
+color: #16476A;
+}  
+
+a:visited{
+    color:#3B9797 ;
+}
+a:hover{
+    color: #132440;
+}
+
+.infoAlignment{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableRowTwo{
+ text-align: left;
+ font-size: 20px;
+}
+
+.headerTwoAlign{
+    text-align: left;
+}
+
+.textColor{
+    color: #132440;
+    text-align: left;
+}
+
+.imageHeaderTwo{
+    text-align: center;
+    size: 20px;
+    color: #16476A;
+}
+
+.imageAlign{
+    align-items: center;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.businessPictures{
+    height: 250px;
+    width: 300px;
+}
+
+.linkSize{
+    text-align: left;
+    size: 35px;
+}
+
+.headerColor{
+    color: #16476A;
+    
+}
+
+.awardLink{
+    size: 1.25rem;
+}
+
